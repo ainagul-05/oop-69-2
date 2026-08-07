@@ -1,5 +1,5 @@
 class Hero :
-    #Конмтруктор класса
+    # Конcтруктор класса
     def __init__(self, name , lvl , hp):
         #Атрибуты обьекта класса
         self.name = name

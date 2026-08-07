@@ -7,7 +7,12 @@
 4) git remote add origin link to repository (https://github.com/ainagul-05/oop-69-2.git)
 
 Часто используемые команды :
-1) git status....... | Статус проекта
-2) git add . ......... | Добавления файла в буфер обмена
+1) git status.......      | Статус проекта
+2) git add . .........    | Добавления файла в буфер обмена
 3) git commit -m "lesson1"
 4) git push origin master
+5) git branch                     | для просмотра веток
+6) git branch name_new_branch     | для создания новой ветки
+7) git checkout
+7) git switch  name branch        | для переключения на указанную ветку
+8) git switch -c name_new_branch  | для создания и переключения на новую ветку
