@@ -20,3 +20,18 @@
 10) git  reset . или путь к файлу | для того чтобы убрать из буфера обмена после команды git add
 
 
+
+production
+
+release - 3.0.1 
+
+test | stage
+
+develop
+
+feat/register
+
+"feat: register added #123 or link"
+"fix: register bag #321"
+"update: register login #321"
+"hot-fix: register bag #321"
